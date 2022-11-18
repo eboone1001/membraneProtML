@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# development
+devnotes.md
+reference/
+sel_proteins
+proteins
+trashbin
